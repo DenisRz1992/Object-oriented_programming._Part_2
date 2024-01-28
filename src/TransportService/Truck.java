@@ -11,7 +11,3 @@ public class Truck extends MotorTransport {
         checkTrailer();
     }
 }
-
-
-
-
