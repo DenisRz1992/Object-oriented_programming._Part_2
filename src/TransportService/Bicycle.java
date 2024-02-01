@@ -1,5 +1,4 @@
 package TransportService;
-
 public class Bicycle extends WheledTransport {
     public Bicycle (String modelName) {
         super(modelName, 2);

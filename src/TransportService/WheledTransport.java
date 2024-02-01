@@ -1,6 +1,6 @@
 package TransportService;
 
-public abstract class WheledTransport implements Transport {
+public abstract class WheledTransport extends Transport {
     private final String modelName;
     private final int wheelsCount;
 

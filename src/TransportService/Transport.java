@@ -1,5 +1,7 @@
 package TransportService;
 
-public interface Transport {
-    void service();
+public abstract class Transport {
+    void service() {
+
+    }
 }
